@@ -1,3 +1,4 @@
 # firstrepos
-This is my first Git Repository 
-author _ samruddhi nirmal
+This is my first Git Repository
+<br>
+Author-Samruddhi Nirmal
